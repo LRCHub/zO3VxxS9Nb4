@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Witch Hunt",
+  "base_artist": "Azari",
+  "createdAt": "2026-02-27T09:54:28.233471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WITCH HUNT",
+      "artist": "Alice Glass",
+      "has_synced": true,
+      "path": "select/01_WITCH_HUNT_Alice_Glass.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Witch-Hunt",
+      "artist": "Tarja Turunen & Mike Terrana",
+      "has_synced": true,
+      "path": "select/02_Witch-Hunt_Tarja_Turunen_&_Mike_Terrana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Witch Hunt",
+      "artist": "Tarja Turunen",
+      "has_synced": true,
+      "path": "select/03_Witch_Hunt_Tarja_Turunen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Witch Hunt",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/04_Witch_Hunt_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Witch-Hunt",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/05_Witch-Hunt_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Witch Hunt",
+      "artist": "Rush",
+      "has_synced": true,
+      "path": "select/06_Witch_Hunt_Rush.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Witch Hunt (Part III Of Fear) - Live At The Meadowlands, New Jersey/1986",
+      "artist": "Rush",
+      "has_synced": true,
+      "path": "select/07_Witch_Hunt_(Part_III_Of_Fear)_-_Live_At_The_Meadowlands,_New_Jersey_1986_Rush.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Witch Hunt",
+      "artist": "Misfits",
+      "has_synced": false,
+      "path": "select/08_Witch_Hunt_Misfits.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Witch Hunt",
+      "artist": "Kittie",
+      "has_synced": true,
+      "path": "select/09_Witch_Hunt_Kittie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Witch Hunt (Album Version)",
+      "artist": "Misfits",
+      "has_synced": true,
+      "path": "select/10_Witch_Hunt_(Album_Version)_Misfits.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Witch Hunt",
+      "artist": "Rain City Drive",
+      "has_synced": true,
+      "path": "select/11_Witch_Hunt_Rain_City_Drive.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Witch Hunt (Part III of Fear)",
+      "artist": "Rush",
+      "has_synced": false,
+      "path": "select/12_Witch_Hunt_(Part_III_of_Fear)_Rush.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Witch Hunt (Part III of 'Fear')",
+      "artist": "Rush",
+      "has_synced": true,
+      "path": "select/13_Witch_Hunt_(Part_III_of_'Fear')_Rush.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Witch Hunt (Part III Of Fear)",
+      "artist": "Rush",
+      "has_synced": true,
+      "path": "select/14_Witch_Hunt_(Part_III_Of_Fear)_Rush.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Witch Hunt",
+      "artist": "Machine Head",
+      "has_synced": true,
+      "path": "select/15_Witch_Hunt_Machine_Head.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Witch-Hunt",
+      "artist": "Tarja",
+      "has_synced": false,
+      "path": "select/16_Witch-Hunt_Tarja.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Witch Hunt",
+      "artist": "Azari",
+      "has_synced": false,
+      "path": "select/pl_01_Witch_Hunt_Azari.txt"
+    }
+  ]
+}
